@@ -1,0 +1,22 @@
+{
+  "name": "WorkshopHub",
+  "short_name": "WorkHub",
+  "start_url": "/workshop-hub/",
+  "scope": "/workshop-hub/",
+  "description": "Staff and tool management application",
+  "display": "standalone",
+  "theme_color": "#6bc9d0",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/workshop-hub/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/workshop-hub/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
